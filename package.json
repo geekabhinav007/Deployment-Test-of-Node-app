@@ -1,0 +1,23 @@
+{
+  "name": "mean_tutorial",
+  "version": "1.0.0",
+  "description": "demo desc",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "MEAN",
+    "Mongo",
+    "Express",
+    "Angular",
+    "Nodejs"
+  ],
+  "author": "Kumar Abhinav",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "express": "^4.18.2",
+    "ngx-bootstrap": "^10.2.0"
+  }
+}
